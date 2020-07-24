@@ -38,6 +38,7 @@ build
 
 cp ./src/lib/*.css ../../dist/eklesia/angular2-toaster/
 cp ./src/lib/*.scss ../../dist/eklesia/angular2-toaster/
+cp ../../../../README.md ../../dist/eklesia/angular2-toaster/
 
 cd ../../dist/eklesia/angular2-toaster
 
