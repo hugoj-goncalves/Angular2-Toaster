@@ -1,5 +1,13 @@
 # Angular2-Toaster
 
+## Eklesia Mods - Go horse mode
+
+- Created a angular lib and moved the files to "projects" folder
+- Added publish.sh script inside project
+- Tests must be run *manually* before publishing a new version like this *ng test @eklesia/angular2-toaster --browsers=Chrome_no_sandbox*
+
+--------------------
+
 **angular2-toaster** is an asynchronous, non-blocking, Ahead of Time Compilation-supported Angular Toaster Notification library 
 largely based off of [AngularJS-Toaster](https://github.com/jirikavi/AngularJS-Toaster).
 

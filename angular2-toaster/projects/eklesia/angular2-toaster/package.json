@@ -1,6 +1,6 @@
 {
   "name": "@eklesia/angular2-toaster",
-  "version": "0.0.1",
+  "version": "8.0.0-eklesia.1",
   "peerDependencies": {
     "@angular/common": "^10.0.0",
     "@angular/core": "^10.0.0",
