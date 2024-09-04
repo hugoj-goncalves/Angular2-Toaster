@@ -1,7 +1,7 @@
 {
   "name": "@eklesia/angular2-toaster",
   "description": "An Angular Toaster Notification library based on AngularJS-Toaster",
-  "version": "11.0.1-18eklesia.1",
+  "version": "11.0.1-18eklesia.2",
   "author": "Stabzs",
   "license": "MIT",
   "repository": {
