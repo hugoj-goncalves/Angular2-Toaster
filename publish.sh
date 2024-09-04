@@ -1,7 +1,7 @@
 #!/bin/bash
 
 function build {
-  npm run build-prod
+  npm run build-prod && sed -i.bak "s/\"exports\":\s*{/\"exports\": \{\n\t\t\".\/\*.css\"\: \".\/\*.css\",/" ./dist/angular2-toaster/package.json
 }
 
 function updateVersion {
