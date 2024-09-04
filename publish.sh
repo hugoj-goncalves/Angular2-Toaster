@@ -35,7 +35,7 @@ if [ $? -eq 1 ]; then
 fi
 git push
 
-pushd dist
+pushd dist/angular2-toaster
 npm config set scope @eklesia
 npm config set access public
 npm publish
